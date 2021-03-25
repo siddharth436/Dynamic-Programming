@@ -2,12 +2,19 @@ DP Questions Patterns Category wise based on category :
 
 Longest Increasing Subsequence variants:
 
+
 https://leetcode.com/problems/longest-increasing-subsequence/
+
 https://leetcode.com/problems/largest-divisible-subset/
+
 https://leetcode.com/problems/russian-doll-envelopes/
+
 https://leetcode.com/problems/maximum-length-of-pair-chain/
+
 https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+
 https://leetcode.com/problems/delete-and-earn/
+
 https://leetcode.com/problems/longest-string-chain/
 
 Partition Subset:
